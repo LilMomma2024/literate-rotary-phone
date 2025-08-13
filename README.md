@@ -1,2 +1,2 @@
 # literate-rotary-phone
-Analystics 
+Analyst is 
